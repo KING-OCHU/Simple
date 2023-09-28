@@ -7,7 +7,7 @@ This is simple test of phone info gathering.
 ```
 pkg install git
 pkg install python 
-pkg install bs4
+pip install bs4
 pip install requests
 git clone https://github.com/SAM-OCHU/Simple
 cd Sample
